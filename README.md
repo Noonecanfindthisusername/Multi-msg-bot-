@@ -43,3 +43,7 @@ You can read
 ## Feedback / new suggestions
 
 Give Feeds/suggestions in this bot [🚀HERE](https://t.me/KINGBOT_feedbackbot)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+
